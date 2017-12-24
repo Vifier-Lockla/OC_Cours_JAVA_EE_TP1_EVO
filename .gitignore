@@ -1,10 +1,6 @@
-# Add any directories, files, or patterns you don't want to be tracked by version control
-Thumbs.db
-.settings
-.git
-.classpath
-.project
-.pydevproject
-.gitignore
+target/
+out/
 bin/
-doc/
+.idea/
+*.iml
+*.class

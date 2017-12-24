@@ -1,0 +1,42 @@
+@charset "UTF-8";
+
+body {
+	font-family: "Segoe UI Semibold", Verdana, Arial, serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+.panel-heading {
+    background-color: #F4F4F4;
+}
+
+.panel {
+    border-color: lightgrey;
+}
+
+.panel-body {
+	height: 120px;
+}
+
+.btn {
+    margin-top: 10px;
+    margin-left:10px;
+    margin-bottom: 10px;
+}
+
+option {    
+    height:21px;
+    font-weight: bold;
+}
+
+.pdivzero { 
+    color: #FF0000;
+	font-size: 1.2em;
+	font-weight : bold;
+}
+
+.fieldnb {
+    width: 80px;
+}
